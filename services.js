@@ -9,6 +9,8 @@ const createService = () => {
       q = quotes.filter(x => x.tags.includes(req.query.tag))
     } else if (req.query.author) {
       q = quotes.filter(x => x.author.includes(req.query.author))
+    } else {
+      q = quotes;
     }
     res.json({ data: q });
   });
@@ -17,6 +19,8 @@ const createService = () => {
     let a = [];
     if (req.query.name) {
       a = authors.filter(x => x.name.includes(req.query.name))
+    } else {
+      a = authors;
     }
     res.json({ data: a });
   });
