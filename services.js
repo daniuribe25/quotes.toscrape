@@ -62,7 +62,7 @@ const quotes = [
   },
   {
     "author": "Jane Austen",
-    "text": "“The person, be it gentleman or lady, who has not ",
+    "text": "“The person, be it gentleman or lady, who has not text",
     "tags": [
       "aliteracy",
       "books",
@@ -151,7 +151,7 @@ const quotes = [
   },
   {
     "author": "Bob Marley",
-    "text": "“You may not be her first, her last, or her only. ",
+    "text": "“You may not be her first, her last, or her only. text",
     "tags": [
       "love"
     ]
@@ -221,7 +221,7 @@ const quotes = [
   },
   {
     "author": "Pablo Neruda",
-    "text": "“I love you without knowing how, or when, or from ",
+    "text": "“I love you without knowing how, or when, or from text",
     "tags": [
       "love",
       "poetry"
@@ -243,7 +243,7 @@ const quotes = [
   },
   {
     "author": "Garrison Keillor",
-    "text": "“Anyone who thinks sitting in church can make you ",
+    "text": "“Anyone who thinks sitting in church can make you text",
     "tags": [
       "humor",
       "religion"
@@ -280,7 +280,7 @@ const quotes = [
   },
   {
     "author": "Albert Einstein",
-    "text": "“Logic will get you from A to Z; imagination will ",
+    "text": "“Logic will get you from A to Z; imagination will text",
     "tags": [
       "imagination"
     ]
@@ -294,7 +294,7 @@ const quotes = [
   },
   {
     "author": "Dr. Seuss",
-    "text": "“The more that you read, the more things you will ",
+    "text": "“The more that you read, the more things you will text",
     "tags": [
       "learning",
       "reading",
@@ -310,14 +310,14 @@ const quotes = [
   },
   {
     "author": "Bob Marley",
-    "text": "“The truth is, everyone is going to hurt you. You ",
+    "text": "“The truth is, everyone is going to hurt you. You text",
     "tags": [
       "friendship"
     ]
   },
   {
     "author": "Mother Teresa",
-    "text": "“Not all of us can do great things. But we can do ",
+    "text": "“Not all of us can do great things. But we can do text",
     "tags": [
       "misattributed-to-mother-teresa",
       "paraphrased"
@@ -333,7 +333,7 @@ const quotes = [
   },
   {
     "author": "Charles M. Schulz",
-    "text": "“All you need is love. But a little chocolate now ",
+    "text": "“All you need is love. But a little chocolate now text",
     "tags": [
       "chocolate",
       "food",
@@ -385,7 +385,7 @@ const quotes = [
   },
   {
     "author": "C.S. Lewis",
-    "text": "“You can never get a cup of tea large enough or a ",
+    "text": "“You can never get a cup of tea large enough or a text",
     "tags": [
       "books",
       "inspirational",
@@ -423,7 +423,7 @@ const quotes = [
   },
   {
     "author": "Marilyn Monroe",
-    "text": "“A wise girl kisses but doesn't love, listens but ",
+    "text": "“A wise girl kisses but doesn't love, listens but text",
     "tags": [
       "attributed-no-source"
     ]
@@ -476,14 +476,14 @@ const quotes = [
   },
   {
     "author": "Albert Einstein",
-    "text": "“If I were not a physicist, I would probably be a ",
+    "text": "“If I were not a physicist, I would probably be a text",
     "tags": [
       "music"
     ]
   },
   {
     "author": "Haruki Murakami",
-    "text": "“If you only read the books that everyone else is ",
+    "text": "“If you only read the books that everyone else is text",
     "tags": [
       "books",
       "thought"
@@ -523,7 +523,7 @@ const quotes = [
   },
   {
     "author": "George Bernard Shaw",
-    "text": "“Life isn't about finding yourself. Life is about ",
+    "text": "“Life isn't about finding yourself. Life is about text",
     "tags": [
       "inspirational",
       "life",
@@ -546,7 +546,7 @@ const quotes = [
   },
   {
     "author": "Suzanne Collins",
-    "text": "“Remember, we're madly in love, so it's all right ",
+    "text": "“Remember, we're madly in love, so it's all right text",
     "tags": [
       "humor"
     ]
@@ -602,7 +602,7 @@ const quotes = [
   },
   {
     "author": "Dr. Seuss",
-    "text": "“I have heard there are troubles of more than one ",
+    "text": "“I have heard there are troubles of more than one text",
     "tags": [
       "troubles"
     ]
@@ -624,7 +624,7 @@ const quotes = [
   },
   {
     "author": "Terry Pratchett",
-    "text": "“The trouble with having an open mind, of course, ",
+    "text": "“The trouble with having an open mind, of course, text",
     "tags": [
       "humor",
       "open-mind",
@@ -691,7 +691,7 @@ const quotes = [
   },
   {
     "author": "Mark Twain",
-    "text": "“′Classic′ - a book which people praise and don't ",
+    "text": "“′Classic′ - a book which people praise and don't text",
     "tags": [
       "books",
       "classic",
@@ -741,7 +741,7 @@ const quotes = [
   },
   {
     "author": "C.S. Lewis",
-    "text": "“Some day you will be old enough to start reading ",
+    "text": "“Some day you will be old enough to start reading text",
     "tags": [
       "age",
       "fairytales",
@@ -750,14 +750,14 @@ const quotes = [
   },
   {
     "author": "C.S. Lewis",
-    "text": "“We are not necessarily doubting that God will do ",
+    "text": "“We are not necessarily doubting that God will do text",
     "tags": [
       "god"
     ]
   },
   {
     "author": "Mark Twain",
-    "text": "“The fear of death follows from the fear of life. ",
+    "text": "“The fear of death follows from the fear of life. text",
     "tags": [
       "death",
       "life"
@@ -765,7 +765,7 @@ const quotes = [
   },
   {
     "author": "Mark Twain",
-    "text": "“A lie can travel half way around the world while ",
+    "text": "“A lie can travel half way around the world while text",
     "tags": [
       "misattributed-mark-twain",
       "truth"
@@ -790,7 +790,7 @@ const quotes = [
   },
   {
     "author": "Jimi Hendrix",
-    "text": "“I'm the one that's got to die when it's time for ",
+    "text": "“I'm the one that's got to die when it's time for text",
     "tags": [
       "death",
       "life"
@@ -894,7 +894,7 @@ const authors = [
   },
   {
     "name": "André Gide",
-    "biography": "André Paul Guillaume Gide was a French author and ",
+    "biography": "André Paul Guillaume Gide was a French author and sdsd",
     "birthdate": "November 22, 1869",
     "location": "in Paris, France"
   },
@@ -948,13 +948,13 @@ const authors = [
   },
   {
     "name": "Mark Twain",
-    "biography": "Samuel Langhorne Clemens, better known by his pen ",
+    "biography": "Samuel Langhorne Clemens, better known by his pen sdf",
     "birthdate": "November 30, 1835",
     "location": "in Florida, Missouri, The United States"
   },
   {
     "name": "Allen Saunders",
-    "biography": "Allen Saunders was an American writer, journalist ",
+    "biography": "Allen Saunders was an American writer, journalist sdfsd",
     "birthdate": "April 24, 1899",
     "location": "in The United States"
   },
@@ -990,7 +990,7 @@ const authors = [
   },
   {
     "name": "Charles M. Schulz",
-    "biography": "Charles Monroe Schulz was an American cartoonist, ",
+    "biography": "Charles Monroe Schulz was an American cartoonist, text",
     "birthdate": "November 26, 1922",
     "location": "in Minneapolis, MN, The United States"
   },
@@ -1050,7 +1050,7 @@ const authors = [
   },
   {
     "name": "Stephenie Meyer",
-    "biography": "I was born in Connecticut in 1973, during a brief ",
+    "biography": "I was born in Connecticut in 1973, during a brief text",
     "birthdate": "December 24, 1973",
     "location": "in Connecticut, The United States"
   },
@@ -1128,7 +1128,7 @@ const authors = [
   },
   {
     "name": "Ayn Rand",
-    "biography": "Alisa Rosenbaum was born in pre-revolutionary St. ",
+    "biography": "Alisa Rosenbaum was born in pre-revolutionary St. text",
     "birthdate": "February 02, 1905",
     "location": "in St. Petersburg, Russian Federation"
   },
@@ -1152,7 +1152,7 @@ const authors = [
   },
   {
     "name": "Khaled Hosseini",
-    "biography": "Hosseini was born in Kabul, Afghanistan, in 1965. ",
+    "biography": "Hosseini was born in Kabul, Afghanistan, in 1965. text",
     "birthdate": "March 04, 1965",
     "location": "in Kabul, Afghanistan"
   },
